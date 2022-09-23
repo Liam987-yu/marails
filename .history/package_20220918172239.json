@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "ethers": "^5.7.1",
+    "moralis": "^2.4.0",
+    "next-auth": "^4.10.3",
+    "wagmi": "^0.6.6"
+  },
+  "name": "mjy-marails",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
